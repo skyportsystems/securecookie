@@ -1,0 +1,4 @@
+origin	git@github.com:skyportsystems/securecookie (fetch)
+origin	git@github.com:skyportsystems/securecookie (push)
+upstream	https://github.com/gorilla/securecookie.git (fetch)
+upstream	https://github.com/gorilla/securecookie.git (push)
